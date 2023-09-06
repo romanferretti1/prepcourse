@@ -1,2 +1,1 @@
-# prepcourse
-repositorio de prueba modulo 2
+prueba ed repositorio desde git hub
